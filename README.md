@@ -1,6 +1,6 @@
 # Floreo Core Web JS Curriculum
 
-## Welcome to Floreo Labs Core Education! :books::rocket:
+## Welcome to Floreo Labs Core Education! :books::rainbow::art:
 
 ## Modules
 
